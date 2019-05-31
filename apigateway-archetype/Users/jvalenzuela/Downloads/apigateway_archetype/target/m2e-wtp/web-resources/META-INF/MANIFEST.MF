@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: apigatewayarchetype
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jvalenzuela
+Implementation-Vendor-Id: gob.mtpe
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/apigatewayarchetype
+Created-By: Maven Integration for Eclipse
+

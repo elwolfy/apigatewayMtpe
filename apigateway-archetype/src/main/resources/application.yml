@@ -1,0 +1,13 @@
+zuul:
+  routes:
+    foos:
+      path: /foos/**
+      #url: http://localhost:8081/spring-zuul-foos-resource/foos
+      url: http://disel.trabajo.gob.pe/snra-rest/registros
+    pruebas:
+      path: /pruebas/**
+      url: http://localhost:8081/spring-zuul-foos-resource/foos
+    
+     
+
+      
